@@ -21,12 +21,12 @@
     <td>panasonic_v1.csv</td>
     <td>Dec 21, 2021</td>
     <td>Dec 21, 2021</td>
-    <td>369</td>
-    <td></td>
+    <td>1646</td>
+    <td> 4 </td>
     <td>
       <ul>
-        <li> Num of + class: ___</li>
-        <li> Num of - class: ___</li>
+        <li> Num of + class: 407 </li>
+        <li> Num of - class: 1239 </li>
       </ul>
     </td>
   </tr>
@@ -44,8 +44,10 @@
     <td>panasonic_v1.csv</td>
     <td>
       <ul>
-        <li> text: more detail here </li> 
-        <li> complaint: more detail here.</li> 
+        <li> created_at: date and time when the tweet was created.</li>
+        <li> text: tweets </li> 
+        <li> complaint: binary flag indicating if the text is a complaint or not.</li> 
+         <li> type: type of complaint.</li>   
       </ul>
     </td>
   </tr>
